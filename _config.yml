@@ -1,7 +1,7 @@
 # Site settings
 title: Muhamad Ridwan
 description: 'Java Programmer yang berfokus di back end, tapi tidak keberatan juga kalo diminta mengerjakan project front end. :)'
-url: 'http://muhamadridwan.id'
+url: 'https://muhamadridwan.id'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 disqus_shortname: 'muhamadridwan'
